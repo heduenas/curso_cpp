@@ -1,0 +1,14 @@
+{
+  "cases": {},
+  "limits": {
+    "ExtraWallTime": "0s",
+    "MemoryLimit": 33554432,
+    "OutputLimit": 10240,
+    "OverallWallTimeLimit": "1m0s",
+    "TimeLimit": "1s"
+  },
+  "validator": {
+    "name": "token-caseless",
+    "tolerance": 1e-9
+  }
+}
